@@ -1,4 +1,3 @@
-apt install python
 version='1.2'
 rick='https://keroserene.net/lol'
 video="$rick/astley80.full.bz2"
